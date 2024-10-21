@@ -1,0 +1,13 @@
+-------------------------
+--- DNN Model Details ---
+-------------------------
+
+Max IM2COL size of 18432 bytes @layer 0
+DNN memory occupation: 49168 bytes of 61440 available L1 bytes (80.02604166666667%).
+
+---------- DNN ARCHITECTURE ----------
+Layer 0: FP32 conv2d, in=[3, 8, 8], wgt=[8, 3, 3, 3], out=[8, 6, 6]
+Layer 1: FP32 ReLU, in=[8, 6, 6], wgt=[8, 1, 1, 8], out=[8, 6, 6]
+Layer 2: FP32 linear, in=[288, 1, 1], wgt=[10, 1, 1, 288], out=[10, 1, 1]
+--------------------------------------
+
