@@ -2,6 +2,12 @@
 
 **Assignment DEADLINE: 15/11/2024 (at 14:30)**
 
+## Material
+
+Assignment: [here](docs/assignment.pdf)
+Slides: [here](docs/slides.pdf)
+
+
 ## How to deliver the assignment:
 
 Use Virtuale, upload only the assignment file named as follows:
